@@ -2,9 +2,9 @@
 ### Hi there, I'm IWANG CEMARA ðŸ‘‹
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/Iwang-Cemara/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+<p align="center"><img src="https://www.codewars.com/users/Iwang/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iwang&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iwang&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
