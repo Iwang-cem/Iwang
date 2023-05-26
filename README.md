@@ -1,5 +1,5 @@
 # Iwang
-### Hi there, I'm Satria Aluh Perwira Nusa ðŸ‘‹
+### Hi there, I'm IWANG CEMARA ðŸ‘‹
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
