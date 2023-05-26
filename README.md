@@ -9,7 +9,7 @@
 </p>
 
 <!--
-**SatriaAPN/SatriaAPN** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Iwang-cem/Iwang** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
